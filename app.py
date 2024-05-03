@@ -12,12 +12,10 @@ import re
 import os
 import traceback
 import requests
-from io import BytesIO
 import nltk
 from PIL import Image
 import time
 from itertools import permutations
-import base64
 
 # CONSTANTS - credentials
 f = open('credentials.json', 'r')
