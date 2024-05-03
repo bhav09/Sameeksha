@@ -29,7 +29,3 @@ For a detailed understanding of the directory structure, please refer to the doc
 
 - **Install the Dependencies**: `pip install -r requirements.txt`
 - **Run the Code**: `streamlit run app.py`
-
-### Feedback:
-
-Your feedback is invaluable to us. Please feel free to share your thoughts and suggestions at [our GitHub Discussion Forum](https://github.com/YourUsername/Sameeksha/discussions).
