@@ -1,0 +1,8 @@
+📁 Sameeksha/
+├─📄 requirements.txt
+├─📁 .streamlit/
+│ └─📄 config.toml
+├─📄 README.md
+├─📄 .gitignore
+├─📄 app.py
+└─📄 tree.txt
