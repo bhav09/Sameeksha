@@ -50,7 +50,7 @@ python-dateutil==2.9.0.post0
 pytz==2024.1
 referencing==0.35.1
 regex==2024.4.28
-requests==2.31.0
+requests==2.32.0
 rich==13.7.1
 rpds-py==0.18.0
 rsa==4.9
